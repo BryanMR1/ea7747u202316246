@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="" />
+    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="feat:add initial projects files">
+      <change afterPath="$PROJECT_DIR$/TrailGo/server/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +53,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,7 +61,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true"
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/alumnos/7747/ea7747u202316246/TrailGo/node_modules/typescript/lib"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -72,11 +80,24 @@
       <option name="presentableId" value="Default" />
       <updated>1791892830556</updated>
       <workItem from="1791892843845" duration="617000" />
-      <workItem from="1791893463866" duration="905000" />
+      <workItem from="1791893463866" duration="1751000" />
     </task>
+    <task id="LOCAL-00001" summary="feat:add initial projects files">
+      <option name="closed" value="true" />
+      <created>1791894480644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791894480644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:add initial projects files" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:add initial projects files" />
   </component>
 </project>
