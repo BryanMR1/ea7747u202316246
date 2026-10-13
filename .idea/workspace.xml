@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="docs:add doc db.json, install angular and create i18n directory" />
+    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="docs:add directory toolbar,layout and page-not-found">
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,61 +33,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.4289013948884333" />
-      <entry key="MS500" value="4.280428853892349" />
-      <entry key="S2" value="6.89942374179277" />
-      <entry key="S5" value="9.985947428441182" />
-      <entry key="S10" value="13.0324897931611" />
-      <entry key="S30" value="20.88687035728019" />
-      <entry key="S60" value="32.34265809845982" />
-      <entry key="M2" value="51.340668953784856" />
-      <entry key="M5" value="86.04065897594863" />
-      <entry key="M10" value="111.88484483783333" />
-      <entry key="M15" value="123.93798322140795" />
-      <entry key="M30" value="138.436589191552" />
-      <entry key="H1" value="146.7902530030924" />
-      <entry key="H2" value="151.2818724376542" />
-      <entry key="H4" value="153.61179922343285" />
-      <entry key="D1" value="155.59784773560276" />
-      <entry key="W1" value="155.94244785456252" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000026392156431" />
+      <entry key="S2" value="1.0837406038578556" />
+      <entry key="S5" value="1.7578758366016851" />
+      <entry key="S10" value="2.850475831754717" />
+      <entry key="S30" value="5.588417357631055" />
+      <entry key="S60" value="8.065681116009255" />
+      <entry key="M2" value="11.33600760408345" />
+      <entry key="M5" value="24.88482793842971" />
+      <entry key="M10" value="55.4677574467137" />
+      <entry key="M15" value="79.6894774275111" />
+      <entry key="M30" value="119.50240914250597" />
+      <entry key="H1" value="148.45243940295003" />
+      <entry key="H2" value="165.99919945906032" />
+      <entry key="H4" value="175.6713429726793" />
+      <entry key="D1" value="184.23101294467108" />
+      <entry key="W1" value="185.74609683625226" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.800830432867928E-109" />
-      <entry key="S5" value="3.178257851532199E-44" />
-      <entry key="S10" value="1.7827669089177579E-22" />
-      <entry key="S30" value="5.6281395176948494E-8" />
-      <entry key="S60" value="2.3723700212434866E-4" />
-      <entry key="M2" value="0.015402499866071994" />
-      <entry key="M5" value="0.1883807343215843" />
-      <entry key="M10" value="0.4340284948267617" />
-      <entry key="M15" value="0.5732518898600998" />
-      <entry key="M30" value="0.7571339972951272" />
-      <entry key="H1" value="0.8701344708119131" />
-      <entry key="H2" value="0.9328099864452084" />
-      <entry key="H4" value="0.9658208873518985" />
-      <entry key="D1" value="0.9942206187864218" />
-      <entry key="W1" value="0.999172321791362" />
+      <entry key="S2" value="7.721457736333566E-266" />
+      <entry key="S5" value="9.017366459617486E-107" />
+      <entry key="S10" value="9.495981497253152E-54" />
+      <entry key="S30" value="2.1176131242444786E-18" />
+      <entry key="S60" value="1.4552020905167996E-9" />
+      <entry key="M2" value="3.814711116869526E-5" />
+      <entry key="M5" value="0.017083807217963397" />
+      <entry key="M10" value="0.13070503899224145" />
+      <entry key="M15" value="0.2575499998697895" />
+      <entry key="M30" value="0.5074938421988858" />
+      <entry key="H1" value="0.7123860204965331" />
+      <entry key="H2" value="0.8440296324753825" />
+      <entry key="H4" value="0.9187108535743896" />
+      <entry key="D1" value="0.9859687292692006" />
+      <entry key="W1" value="0.9979833733266504" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.3829085476653415" />
-      <entry key="MS500" value="4.254374472809364" />
-      <entry key="S2" value="6.886518485673215" />
-      <entry key="S5" value="9.977803955701406" />
-      <entry key="S10" value="13.027083480290464" />
-      <entry key="S30" value="20.883974549578532" />
-      <entry key="S60" value="32.34053382437712" />
-      <entry key="M2" value="51.3531556301506" />
-      <entry key="M5" value="86.22430615340197" />
-      <entry key="M10" value="112.31443867336374" />
-      <entry key="M15" value="124.50754204414898" />
-      <entry key="M30" value="139.19140371001637" />
-      <entry key="H1" value="147.65908518962826" />
-      <entry key="H2" value="152.2139921160415" />
-      <entry key="H4" value="154.57726468936116" />
-      <entry key="D1" value="156.5920076493433" />
-      <entry key="W1" value="156.94161146768897" />
+      <entry key="MS100" value="0.7900413118633771" />
+      <entry key="MS500" value="0.9539621478189544" />
+      <entry key="S2" value="1.0716793944536342" />
+      <entry key="S5" value="1.7516656397151846" />
+      <entry key="S10" value="2.845692919914992" />
+      <entry key="S30" value="5.585108372427574" />
+      <entry key="S60" value="8.063216372122934" />
+      <entry key="M2" value="11.334328432374836" />
+      <entry key="M5" value="24.900573166466614" />
+      <entry key="M10" value="55.596612631583795" />
+      <entry key="M15" value="79.94500912528477" />
+      <entry key="M30" value="120.00815971395046" />
+      <entry key="H1" value="149.16366249234855" />
+      <entry key="H2" value="166.84255547067133" />
+      <entry key="H4" value="176.58969107042233" />
+      <entry key="D1" value="185.2169173377746" />
+      <entry key="W1" value="186.74407091999646" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -133,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791892830556</updated>
       <workItem from="1791892843845" duration="617000" />
-      <workItem from="1791893463866" duration="2690000" />
+      <workItem from="1791893463866" duration="3656000" />
     </task>
     <task id="LOCAL-00001" summary="feat:add initial projects files">
       <option name="closed" value="true" />
@@ -159,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791895349271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs:add directory toolbar,layout and page-not-found">
+      <option name="closed" value="true" />
+      <created>1791896283683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791896283683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:add initial projects files" />
     <MESSAGE value="docs:add doc db.json, install angular and create i18n directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs:add doc db.json, install angular and create i18n directory" />
+    <MESSAGE value="docs:add directory toolbar,layout and page-not-found" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs:add directory toolbar,layout and page-not-found" />
   </component>
 </project>
