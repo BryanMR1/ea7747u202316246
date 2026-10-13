@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="docs:toolbar.ts and toolbar.html edit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791892830556</updated>
       <workItem from="1791892843845" duration="617000" />
-      <workItem from="1791893463866" duration="4629000" />
+      <workItem from="1791893463866" duration="4989000" />
     </task>
     <task id="LOCAL-00001" summary="feat:add initial projects files">
       <option name="closed" value="true" />
@@ -178,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791897155664</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="docs:toolbar.ts and toolbar.html edit">
+      <option name="closed" value="true" />
+      <created>1791898113185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791898113185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
