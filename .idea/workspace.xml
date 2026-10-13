@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="feat:add initial projects files">
-      <change afterPath="$PROJECT_DIR$/TrailGo/server/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="docs:add doc db.json, install angular and create i18n directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +28,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.4289013948884333" />
+      <entry key="MS500" value="4.280428853892349" />
+      <entry key="S2" value="6.89942374179277" />
+      <entry key="S5" value="9.985947428441182" />
+      <entry key="S10" value="13.0324897931611" />
+      <entry key="S30" value="20.88687035728019" />
+      <entry key="S60" value="32.34265809845982" />
+      <entry key="M2" value="51.340668953784856" />
+      <entry key="M5" value="86.04065897594863" />
+      <entry key="M10" value="111.88484483783333" />
+      <entry key="M15" value="123.93798322140795" />
+      <entry key="M30" value="138.436589191552" />
+      <entry key="H1" value="146.7902530030924" />
+      <entry key="H2" value="151.2818724376542" />
+      <entry key="H4" value="153.61179922343285" />
+      <entry key="D1" value="155.59784773560276" />
+      <entry key="W1" value="155.94244785456252" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.800830432867928E-109" />
+      <entry key="S5" value="3.178257851532199E-44" />
+      <entry key="S10" value="1.7827669089177579E-22" />
+      <entry key="S30" value="5.6281395176948494E-8" />
+      <entry key="S60" value="2.3723700212434866E-4" />
+      <entry key="M2" value="0.015402499866071994" />
+      <entry key="M5" value="0.1883807343215843" />
+      <entry key="M10" value="0.4340284948267617" />
+      <entry key="M15" value="0.5732518898600998" />
+      <entry key="M30" value="0.7571339972951272" />
+      <entry key="H1" value="0.8701344708119131" />
+      <entry key="H2" value="0.9328099864452084" />
+      <entry key="H4" value="0.9658208873518985" />
+      <entry key="D1" value="0.9942206187864218" />
+      <entry key="W1" value="0.999172321791362" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.3829085476653415" />
+      <entry key="MS500" value="4.254374472809364" />
+      <entry key="S2" value="6.886518485673215" />
+      <entry key="S5" value="9.977803955701406" />
+      <entry key="S10" value="13.027083480290464" />
+      <entry key="S30" value="20.883974549578532" />
+      <entry key="S60" value="32.34053382437712" />
+      <entry key="M2" value="51.3531556301506" />
+      <entry key="M5" value="86.22430615340197" />
+      <entry key="M10" value="112.31443867336374" />
+      <entry key="M15" value="124.50754204414898" />
+      <entry key="M30" value="139.19140371001637" />
+      <entry key="H1" value="147.65908518962826" />
+      <entry key="H2" value="152.2139921160415" />
+      <entry key="H4" value="154.57726468936116" />
+      <entry key="D1" value="156.5920076493433" />
+      <entry key="W1" value="156.94161146768897" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
@@ -80,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791892830556</updated>
       <workItem from="1791892843845" duration="617000" />
-      <workItem from="1791893463866" duration="1751000" />
+      <workItem from="1791893463866" duration="2690000" />
     </task>
     <task id="LOCAL-00001" summary="feat:add initial projects files">
       <option name="closed" value="true" />
@@ -90,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791894480644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docs:add doc db.json, install angular and create i18n directory">
+      <option name="closed" value="true" />
+      <created>1791895309853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791895309853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs:add doc db.json, install angular and create i18n directory">
+      <option name="closed" value="true" />
+      <created>1791895349271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791895349271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:add initial projects files" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:add initial projects files" />
+    <MESSAGE value="docs:add doc db.json, install angular and create i18n directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs:add doc db.json, install angular and create i18n directory" />
   </component>
 </project>
