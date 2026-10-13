@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="docs:toolbar.ts and toolbar.html edit">
-      <change beforePath="$PROJECT_DIR$/TrailGo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/layout/layout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/components/toolbar/toolbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.css" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/src/app/shared/presentation/views/page-not-found/page-not-found.ts" afterDir="false" />
+    <list default="true" id="c975791f-92a2-4ce9-9595-98df0b35af57" name="Changes" comment="feat: docs add en.json add es.json information">
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/components/reservation-summary/reservation-summary.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/components/reservation-summary/reservation-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/components/reservation-summary/reservation-summary.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/views/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/views/home/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation/views/home/home.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/public/i18n/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/public/i18n/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrailGo/public/i18n/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrailGo/public/i18n/es.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,61 +41,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7279289373287174" />
-      <entry key="MS500" value="3.72484161811416" />
-      <entry key="S2" value="6.832908814721851" />
-      <entry key="S5" value="11.95519959879022" />
-      <entry key="S10" value="19.76215941875461" />
-      <entry key="S30" value="42.93725976963629" />
-      <entry key="S60" value="60.2392697610205" />
-      <entry key="M2" value="76.45636023070853" />
-      <entry key="M5" value="95.64118147020567" />
-      <entry key="M10" value="117.11433833650646" />
-      <entry key="M15" value="138.62695593492202" />
-      <entry key="M30" value="187.05539278338327" />
-      <entry key="H1" value="232.9678302376332" />
-      <entry key="H2" value="265.2068338831092" />
-      <entry key="H4" value="284.39703515265256" />
-      <entry key="D1" value="302.2188340419147" />
-      <entry key="W1" value="305.45522673256835" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001200564055208" />
+      <entry key="S2" value="1.104686446592143" />
+      <entry key="S5" value="1.421680641727349" />
+      <entry key="S10" value="1.8682701494661509" />
+      <entry key="S30" value="4.079452958044651" />
+      <entry key="S60" value="7.130878387718889" />
+      <entry key="M2" value="14.518580185739655" />
+      <entry key="M5" value="47.24969698338105" />
+      <entry key="M10" value="98.43330385160708" />
+      <entry key="M15" value="141.04601273393808" />
+      <entry key="M30" value="242.06600099298433" />
+      <entry key="H1" value="367.3974103472232" />
+      <entry key="H2" value="480.35318850365275" />
+      <entry key="H4" value="559.0881762194103" />
+      <entry key="D1" value="640.6131149016799" />
+      <entry key="W1" value="656.3268367891485" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.0829689940891796E-183" />
-      <entry key="S10" value="4.56395551478009E-92" />
-      <entry key="S30" value="3.573664688461306E-31" />
-      <entry key="S60" value="5.978013623655667E-16" />
-      <entry key="M2" value="2.4449976735481027E-8" />
-      <entry key="M5" value="9.022177771004481E-4" />
-      <entry key="M10" value="0.030036940208690476" />
-      <entry key="M15" value="0.09662817860276093" />
-      <entry key="M30" value="0.3108507336371593" />
-      <entry key="H1" value="0.5575398942113108" />
-      <entry key="H2" value="0.7466859408153521" />
-      <entry key="H4" value="0.8641099124621529" />
-      <entry key="D1" value="0.9759513395843479" />
-      <entry key="W1" value="0.9965285322690496" />
+      <entry key="MS100" value="2.821064080597571E-247" />
+      <entry key="MS500" value="4.898719699998841E-50" />
+      <entry key="S2" value="4.704590906085181E-13" />
+      <entry key="S5" value="1.1842720824064579E-5" />
+      <entry key="S10" value="0.004011118871239131" />
+      <entry key="S30" value="0.3239896361478265" />
+      <entry key="S60" value="1.1087229612538385" />
+      <entry key="M2" value="2.093033245274163" />
+      <entry key="M5" value="3.0827514933091726" />
+      <entry key="M10" value="3.510984051323874" />
+      <entry key="M15" value="3.670340872018889" />
+      <entry key="M30" value="3.8906153822654277" />
+      <entry key="H1" value="4.160881018653875" />
+      <entry key="H2" value="4.453710608405222" />
+      <entry key="H4" value="4.683283405159818" />
+      <entry key="D1" value="4.939777372812632" />
+      <entry key="W1" value="4.99119330439987" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6616608164829092" />
-      <entry key="MS500" value="3.698099091384419" />
-      <entry key="S2" value="6.820588488408357" />
-      <entry key="S5" value="11.943829417949301" />
-      <entry key="S10" value="19.74595513488497" />
-      <entry key="S30" value="42.90814574748936" />
-      <entry key="S60" value="60.210941200802694" />
-      <entry key="M2" value="76.43428257381419" />
-      <entry key="M5" value="95.62948392699967" />
-      <entry key="M10" value="117.13660318593772" />
-      <entry key="M15" value="138.71760543863445" />
-      <entry key="M30" value="187.36237080219237" />
-      <entry key="H1" value="233.5230011873602" />
-      <entry key="H2" value="265.9521792580951" />
-      <entry key="H4" value="285.2604275831105" />
-      <entry key="D1" value="303.19465841952086" />
-      <entry key="W1" value="306.45173693484276" />
+      <entry key="MS100" value="1.721297735598792E-7" />
+      <entry key="MS500" value="0.04448128843962005" />
+      <entry key="S2" value="0.5597122754673367" />
+      <entry key="S5" value="1.145991863461123" />
+      <entry key="S10" value="1.7078656459757209" />
+      <entry key="S30" value="4.2909702984464975" />
+      <entry key="S60" value="8.145198402664498" />
+      <entry key="M2" value="16.543578480087003" />
+      <entry key="M5" value="50.2965837742736" />
+      <entry key="M10" value="101.92388164103248" />
+      <entry key="M15" value="144.70148866800812" />
+      <entry key="M30" value="245.9473348987144" />
+      <entry key="H1" value="371.5523465265535" />
+      <entry key="H2" value="484.80331788947456" />
+      <entry key="H4" value="563.7694547068189" />
+      <entry key="D1" value="645.5525209886083" />
+      <entry key="W1" value="661.317976028586" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -119,8 +119,10 @@
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "advanced.settings",
@@ -128,6 +130,11 @@
     "ts.external.directory.path": "/Users/alumnos/7747/ea7747u202316246/TrailGo/node_modules/typescript/lib"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TrailGo/src/app/reservations/presentation" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791892830556</updated>
       <workItem from="1791892843845" duration="617000" />
-      <workItem from="1791893463866" duration="4989000" />
+      <workItem from="1791893463866" duration="8801000" />
     </task>
     <task id="LOCAL-00001" summary="feat:add initial projects files">
       <option name="closed" value="true" />
@@ -193,7 +200,39 @@
       <option name="project" value="LOCAL" />
       <updated>1791898113185</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add layout,toolbar and, page-not-found">
+      <option name="closed" value="true" />
+      <created>1791898773272</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791898773273</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update readme and environments">
+      <option name="closed" value="true" />
+      <created>1791899524401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791899524402</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: update readme and environments">
+      <option name="closed" value="true" />
+      <created>1791899848325</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791899848325</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: docs add en.json add es.json information">
+      <option name="closed" value="true" />
+      <created>1791901364609</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791901364609</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +254,10 @@
     <MESSAGE value="docs:add doc db.json, install angular and create i18n directory" />
     <MESSAGE value="docs:add directory toolbar,layout and page-not-found" />
     <MESSAGE value="docs:toolbar.ts and toolbar.html edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs:toolbar.ts and toolbar.html edit" />
+    <MESSAGE value="feat: add layout,toolbar and, page-not-found" />
+    <MESSAGE value="feat: update readme and environments" />
+    <MESSAGE value="feat: update app.html and create directory" />
+    <MESSAGE value="feat: docs add en.json add es.json information" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: docs add en.json add es.json information" />
   </component>
 </project>
