@@ -1,0 +1,14 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>{{ report().countryName }}</mat-card-title>
+  </mat-card-header>
+
+  <mat-card-conten>
+    <p>Reservation Type: {{report().ReservationType}}</p
+  </mat-card-conten>
+
+  <mat-card-footer>
+    <p>Year: {{ report().year }}</p>
+    <p>Registered: {{ report().registeredAt | date:'medium' }}</p>
+  </mat-card-footer>
+</mat-card>
